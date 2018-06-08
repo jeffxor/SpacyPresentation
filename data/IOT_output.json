@@ -1,0 +1,153 @@
+{
+    "name": "Tyson, Chicken Nuggets",
+    "locale": "en_US",
+    "foodType": "Frozen Appetizers - Cheese Sticks, Cheese Nuggets, & Cheese Snacks",
+    "image": "https://images.labelinsight.com/25926766_6949a064-191e-4847-8d2c-6ac70b6b6bec_2.JPG",
+    "recipe": [
+        {
+            "foodState": "FROZEN",
+            "recipeInstructions": {
+                "steps": [
+                    {
+                        "userInstruction": "PREHEAT OVEN TO 400ºF."
+                    },
+                    {
+                        "device": [
+                            {
+                                "type": "Oven",
+                                "mode": "Preheat",
+                                "temp": 400,
+                                "tempScale": "F"
+                            }
+                        ]
+                    },
+                    {
+                        "userInstruction": "PLACE FROZEN NUGGETS ON BAKING SHEET."
+                    },
+                    {
+                        "userInstruction": "HEAT 11 TO 13 MINUTES."
+                    },
+                    {
+                        "device": [
+                            {
+                                "temp": 400,
+                                "timeScale": "SSS",
+                                "timeMax": 780,
+                                "mode": "Bake",
+                                "timeMin": 660,
+                                "type": "Oven",
+                                "tempScale": "F"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "type": [
+                "Oven"
+            ]
+        },
+        {
+            "recipeYield": "5 NUGGETS",
+            "recipeInstructions": {
+                "steps": [
+                    {
+                        "userInstruction": "ARRANGE NUGGETS ON MICROWAVE SAFE PLATE."
+                    },
+                    {
+                        "userInstruction": "HEAT ON HIGH: 5 NUGGETS FOR 1 TO 1 1/2 MINUTES, 10 NUGGETS FOR 2 TO 2 1/1 MINUTES, 15 NUGGETS FOR 2 1/2 TO 3 MINUTES. DO NOT OVERHEAT."
+                    },
+                    {
+                        "device": [
+                            {
+                                "timeScale": "SSS",
+                                "power": "HIGH",
+                                "timeMax": 90,
+                                "mode": "Manual",
+                                "timeMin": 60,
+                                "type": "Microwave"
+                            }
+                        ]
+                    },
+                    {
+                        "userInstruction": "LET STAND 1 TO 2 MINUTES BEFORE SERVING."
+                    }
+                ]
+            },
+            "type": [
+                "Microwave"
+            ],
+            "foodState": "FROZEN"
+        },
+        {
+            "recipeYield": "10 NUGGETS",
+            "recipeInstructions": {
+                "steps": [
+                    {
+                        "userInstruction": "ARRANGE NUGGETS ON MICROWAVE SAFE PLATE."
+                    },
+                    {
+                        "userInstruction": "HEAT ON HIGH: 5 NUGGETS FOR 1 TO 1 1/2 MINUTES, 10 NUGGETS FOR 2 TO 2 1/1 MINUTES, 15 NUGGETS FOR 2 1/2 TO 3 MINUTES. DO NOT OVERHEAT."
+                    },
+                    {
+                        "device": [
+                            {
+                                "timeScale": "SSS",
+                                "power": "HIGH",
+                                "timeMax": 150,
+                                "mode": "Manual",
+                                "timeMin": 120,
+                                "type": "Microwave"
+                            }
+                        ]
+                    },
+                    {
+                        "userInstruction": "LET STAND 1 TO 2 MINUTES BEFORE SERVING."
+                    }
+                ]
+            },
+            "type": [
+                "Microwave"
+            ],
+            "foodState": "FROZEN"
+        },
+        {
+            "recipeYield": "15 NUGGETS",
+            "recipeInstructions": {
+                "steps": [
+                    {
+                        "userInstruction": "ARRANGE NUGGETS ON MICROWAVE SAFE PLATE."
+                    },
+                    {
+                        "userInstruction": "HEAT ON HIGH: 5 NUGGETS FOR 1 TO 1 1/2 MINUTES, 10 NUGGETS FOR 2 TO 2 1/1 MINUTES, 15 NUGGETS FOR 2 1/2 TO 3 MINUTES. DO NOT OVERHEAT."
+                    },
+                    {
+                        "device": [
+                            {
+                                "timeScale": "SSS",
+                                "power": "HIGH",
+                                "timeMax": 180,
+                                "mode": "Manual",
+                                "timeMin": 150,
+                                "type": "Microwave"
+                            }
+                        ]
+                    },
+                    {
+                        "userInstruction": "LET STAND 1 TO 2 MINUTES BEFORE SERVING."
+                    }
+                ]
+            },
+            "type": [
+                "Microwave"
+            ],
+            "foodState": "FROZEN"
+        }
+    ],
+    "upc": "023700006318",
+    "dateCreated": "2016-09-19 16:16:45.0",
+    "@type": "Recipe",
+    "@context": "http://schema.org",
+    "recipeCategory": "Frozen Appetizers & Hors D'oeuvres",
+    "dateModified": "2017-09-07 13:37:17",
+    "productId": 3837071
+}
